@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:med_shakthi/src/features/auth/presentation/screens/login_page.dart';
 import 'src/core/theme/app_theme.dart';
-import 'src/features/auth/presentation/screens/login_page.dart';
 
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
@@ -29,7 +29,7 @@ class MedShakthiApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       theme: AppTheme.lightTheme,
       darkTheme: AppTheme.darkTheme,
-      home: const LoginPage(),
+      home:LoginPage(),
     );
   }
 }
