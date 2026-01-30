@@ -83,12 +83,8 @@ flutter run
 ## 👤 Developer
 
 <div align="left">
-  <img src="https://avatars.githubusercontent.com/u/placeholder?s=200" alt="Profile" width="80" style="border-radius: 50%;" />
-  <br />
-  <strong>Subham</strong><br />
   Flutter App Developer Intern @ UptoSkills
 </div>
-
 <br />
 
 *   **Role**: Architecting the full mobile solution, integrating backend APIs, and optimizing app performance.
